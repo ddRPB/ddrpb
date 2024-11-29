@@ -53,7 +53,7 @@
 		<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 		<maven-celerio-plugin.outputDir>${project.basedir}</maven-celerio-plugin.outputDir>
 		<hibernate.version>4.3.11.Final</hibernate.version>
-		<spring.version>4.3.18.RELEASE</spring.version><!--old 4.1.6.RELEASE new 4.3.18.RELEASE-->
+		<spring.version>5.2.20.RELEASE</spring.version><!--old 4.1.6.RELEASE new 4.3.18.RELEASE-->
 		<spring-security.version>4.1.5.RELEASE</spring-security.version><!--old 3.2.7.RELEASE new 4.1.1.RELEASE-->
 		<jsf-api.version>2.1.24</jsf-api.version>
 		<primefaces.version>6.1</primefaces.version>
